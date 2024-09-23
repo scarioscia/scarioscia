@@ -1,4 +1,4 @@
-## Hi, I'm Sara Carioscia! 👋
+Hi, I'm Sara Carioscia! 👋
 
 - 🔭 I’m interested in using population and statistical genetics to understand variation and bias in human reproductive traits.
 - 👀 I'm a PhD student in Rajiv McCoy's lab at Johns Hopkins University.
